@@ -39,9 +39,9 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "../img/web-app/icon-36p.png"
+black-favicon: "/img/web-app/icon-25p.png"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "/img/intro-bg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -172,22 +172,6 @@ events:
 
 timeline-img: "/img/timeline/default.png"
 
-###########
-# Contact #
-###########
-
-
-################
-# Author Blurb #
-################
-
-# The author blurb goes underneath blog posts.
-# This works best when your author blurb image has a transparent background, or matches your site background color.
-
-# if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
-
 ##################
 # Social Buttons #
 ##################
@@ -204,12 +188,7 @@ social:
 # 404 page #
 ############
 
-err-404-img: "/img/labtocat.png"
-
-##################
-# GPG on Keybase #
-##################
-
+err-404-img: "/img/CryingOrc.png"
 
 ################################################################################
 
