@@ -39,7 +39,7 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "../img/web-app/icon-36p.png"
 
 background-img: "../img/intro-bg.jpg"
 
@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "SpartanUI"
   - text: "Lightweight. Customizable. Theme-able. Expandable."
 
-me-img: "/img/SUI-Helm.png"
+#me-img: "/img/SUI-Helm.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
