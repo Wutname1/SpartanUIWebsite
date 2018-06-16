@@ -1,5 +1,6 @@
 # SpartanUI Website
 This is the Code behind the SpartanUI Website, Powered by the { Personal } Jekyll Theme
+
 [![Discord](https://img.shields.io/discord/265564257347829771.svg?logo=discord)](https://discord.gg/J8wJGtz)
 [![Build Status](https://travis-ci.org/Wutname1/SpartanUIWebsite.svg?branch=master)](https://travis-ci.org/Wutname1/SpartanUIWebsite)
 ![license](https://img.shields.io/badge/license-MIT-blue.svg?link=https://github.com/dono-app/ios/blob/master/LICENSE)
