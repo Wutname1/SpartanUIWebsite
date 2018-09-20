@@ -186,7 +186,9 @@ social:
     url: "https://github.com/Wutname1/SpartanUI"
   - title: "paypal"
     url: "https://www.patreon.com/SpartanUI"
-
+  - title: "bitcoin"
+    url: "https://blockchain.info/address/3CpMmtCnynoX6PiBUTg6YB5J6bBevcwi4t"
+    
 ############
 # 404 page #
 ############
