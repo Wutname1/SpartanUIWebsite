@@ -1,4 +1,3 @@
-
 # Site settings
 
 # NB! Set your site's url, otherwise stuff will break :)
@@ -131,12 +130,18 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/logo-SL.png"
+    date: "June 2019"
+    description: "6.0, Unit frames re-wrote from scratch, New movement system, Chatbox module, Artwork modularized and code reduced by 80%, skins and unitframes now changable without reloading"
+  - image: "/img/timeline/logo-classic.png"
+    date: "August 2019"
+    description: "5.2 WoW Classic support, Taunt Watcher, New Spartan logo"
   - image: "/img/timeline/logo-BfA.png"
     date: "June 2019"
-    description: "5.1"
+    description: "5.1 Interrupt announcer, Auto Combat Logging"
   - image: "/img/timeline/logo-BfA.png"
     date: "September 2018"
-    description: "5.0"
+    description: "5.0 New Setup Experiance"
   - image: "/img/timeline/logo-Legion.png"
     date: "June 2018"
     description: "New Website launched!"
@@ -184,11 +189,11 @@ social:
     url: "https://www.facebook.com/SpartanUI.WoW"
   - title: "github"
     url: "https://github.com/Wutname1/SpartanUI"
-  - title: "paypal"
+  - title: "Patreon"
     url: "https://www.patreon.com/SpartanUI"
   - title: "bitcoin"
     url: "https://blockchain.info/address/3CpMmtCnynoX6PiBUTg6YB5J6bBevcwi4t"
-    
+
 ############
 # 404 page #
 ############
@@ -202,10 +207,10 @@ err-404-img: "/img/CryingOrc.png"
 # Sections shown in the index page
 
 pages_list:
-  Download: 'download'
-  Support: 'support'
-  About: 'about'
-  Timeline: 'timeline'
+  Download: "download"
+  Support: "support"
+  About: "about"
+  Timeline: "timeline"
 
 # Exclusion list from the generated _site
 
